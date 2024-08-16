@@ -1,0 +1,13 @@
+======CSS Color====
+
+1. Color By Name (red, green, black, white)
+2. Color By Hex Code (#01FA78) 
+3. Color By RGB (Red Green Blue)=> rgb(255, 76, 0)
+4. Color By RGBA (Red Green Blue Alpha) => rgba(3, 76, 67, 1)
+
+5. Linear Gradient Color System => background-image: linear-gradient(red, yellow)
+
+Decimal=> 0 1 2 3 4 5 6 7 8 9
+Binary => 0 1
+Octal =>  0 1 2 3 4 5 6 7
+Hexa Decimal => 0 1 2 3 4 5 6 7 8 9 A B C D E F
